@@ -1,6 +1,6 @@
 {
-    "name": "seminer_application",
-    "short_name": "seminer_application",
+    "name": "credit_card_app",
+    "short_name": "credit_card_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
